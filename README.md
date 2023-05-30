@@ -1,2 +1,2 @@
 # Sandy_Shores
-aplikasi Pemdataan Siswa
+Aplikasi Pendataan Siswa
